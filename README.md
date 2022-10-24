@@ -7,7 +7,7 @@
 - [Summary](#summary)
 
 ## Overview
-The purpose of this analysis is to predict credit risk using a combination of several machine learning techniques. Given that credit riak is an unbalanced problem, evaluating the problem using multiple models and evaluating the performance of each of the models yields the best solution.
+The purpose of this analysis is to predict credit risk using a combination of several machine learning techniques. Given that credit risk is an unbalanced problem, evaluating the problem using multiple models and evaluating the performance of each of the models yields the best solution.
 
 
 ## Files
